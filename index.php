@@ -7,8 +7,8 @@
     <title>latihan php</title>
 </head>
 <body>
-    <h1>
-        Selamat Datang <?php echo "Bagus Prasetyo Wardana";?>
-    </h1>
+     <?php 
+     echo " Selamat Datang, Bagus Prasetyo Wardana";
+     ?>
 </body>
 </html>
