@@ -1,9 +1,6 @@
 <?php
-$x = 10;
-$y = 20;
-echo $x + $y;
-echo $x - $y;
-echo $x * $y;
-echo $x / $y;
-echo $x % $y;
+$nama_depan = "Bagus";
+$nama_belakang = "Prasetyo";
+
+echo $nama_depan . "" . $nama_belakang;
 ?>
